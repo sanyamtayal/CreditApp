@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditApp", "CreditApp\CreditApp.csproj", "{79E7048E-2AA2-4785-B520-3438BFE56EC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditApp.Tests", "CreditApp.Tests\CreditApp.Tests.csproj", "{0FC92155-6579-4287-8F45-CBA67FB8A852}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79E7048E-2AA2-4785-B520-3438BFE56EC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79E7048E-2AA2-4785-B520-3438BFE56EC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79E7048E-2AA2-4785-B520-3438BFE56EC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79E7048E-2AA2-4785-B520-3438BFE56EC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FC92155-6579-4287-8F45-CBA67FB8A852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FC92155-6579-4287-8F45-CBA67FB8A852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FC92155-6579-4287-8F45-CBA67FB8A852}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FC92155-6579-4287-8F45-CBA67FB8A852}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {422548F1-A6FA-4B7D-9B19-07C703FD1A74}
+	EndGlobalSection
+EndGlobal
